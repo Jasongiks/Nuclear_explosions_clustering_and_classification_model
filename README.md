@@ -8,3 +8,7 @@ You have been given a dataset published by the Stockholm International Peace Res
 # Objectives
 1. Cluster the explosions recorded.
 2. Perform a descriptive analysis for each of the clusters indicate how they are different from each other.
+3. Create a classification model that accurately classifies new nuclear explosions.
+
+# Data Source
+The dataset provided is published by the Stockholm International Peace Research Institute.
